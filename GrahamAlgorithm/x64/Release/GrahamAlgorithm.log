@@ -1,0 +1,13 @@
+﻿  GrahamAlgorithm.cpp
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(65,28): error C3493: 'this' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(66,42): error C3493: 'this' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(66,66): error C3493: 'this' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(65,28): error C2352: 'ga::counterClockWise': a call of a non-static member function requires an object
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(27,9): message : see declaration of 'ga::counterClockWise'
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(66,42): error C2352: 'ga::furtherAway': a call of a non-static member function requires an object
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(35,12): message : see declaration of 'ga::furtherAway'
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(66,66): error C2352: 'ga::furtherAway': a call of a non-static member function requires an object
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(35,12): message : see declaration of 'ga::furtherAway'
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(68,1): error C3487: 'bool': all return expressions must deduce to the same type: previously it was 'void'
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(67,20): error C2562: 'ga::sortPoints::<lambda_1>::operator ()': 'void' function returning a value
+C:\Users\sm49416\Desktop\projekt\GrahamAlgorithm\GrahamAlgorithm\GrahamAlgorithm.cpp(64,55): message : see declaration of 'ga::sortPoints::<lambda_1>::operator ()'
